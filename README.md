@@ -1,4 +1,15 @@
-# cli
+# Vue Todo List
+
+Vue Todo List is a simple site where you can write down and save the information you need, or for example, if you need to do something, you can always write it down here so you don't forget it!
+
+**Technologies/tools used:**
+  
+  * VueJS 3
+  * OptionsAPI
+  * Vue CLI
+  * VueX
+  * VueTransition
+  * SCSS
 
 ## Project setup
 ```
